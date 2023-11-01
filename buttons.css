@@ -1,0 +1,151 @@
+button{
+    background-color: rgba(0, 0, 255, 0.541);
+    color:white;
+    border: none;
+    height: 36px;
+    width: 105;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 30px;
+    transition: opacity 0.15s;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+button:hover{
+    opacity: 0.2;
+}
+button:active{
+    background-color: red ;
+
+}
+.b2:hover{
+    background-color:blue;
+    color: white;
+    opacity: o.4;
+}
+.b2:active{
+    background-color: red;
+}
+.b2{
+    background-color: white;
+    border-color: rgb(10, 129, 233);
+    color: blue;
+    border-style: solid;
+    border-width: 1px;
+    height: 36px;
+    width: 63px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color  0.1s,
+    color 0.1s;
+    transition: opacity 0.15s;
+    
+
+}
+.b3{
+  background-color: blue;
+  color: whitesmoke;
+  border: none;
+  height: 36px;
+  width: 7opx;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: box-shadow 0.15;
+}
+.b3:hover{
+    box-shadow:10px 10px 5px rgba(0 0 0 0.15) ;
+}
+.uber{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.Amazon{
+    background-color: rgb(255, 296, 20);
+    color: black;
+    border: none;
+    height: 30px;
+    width: 180px;
+    margin-top: 9px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+.github{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    height: 30px;
+    width: 100px;
+    margin-right: 9px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.bootstrap{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.bootstrap2{
+    margin-top: 9px;
+    background-color:rgb(193, 209, 223);
+    color: rgb(108, 117, 125);
+    cursor: pointer;
+    border: none;
+    font-size: medium;
+    border-radius: 2px;
+
+}
+.linkedin{
+    margin-right: 9px;
+    border-color: rgb(10, 102, 194);
+    color: white;
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 100px;
+    font-style: solid;
+}
+.linkedin2{
+    background-color:beige;
+    color: blue;
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+    border-radius: 40px;
+    font-style: solid;
+
+}
+.m2{
+    color: rgb(0, 113, 133);
+}
+.m1{
+    color: rgb(0, 118, 0);
+
+}
+.m3{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    cursor: pointer;
+    height: 30px;
+    width: 150px;
+    border-radius: 75px;
+    font-style: solid;
+
+}
+.m5{
+    background-color: rgb(255, 164, 28);
+    color: black;
+    font-style: solid;
+    height: 30px;
+    width: 150px;
+    border-radius: 75px;
+    font-style: solid;
+    cursor: pointer;
+}
